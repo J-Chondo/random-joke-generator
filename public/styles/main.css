@@ -5,7 +5,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 body{
-    background-color: yellow;
+    background-color: peru;
 }
 .card{
     width: 80vmin;
@@ -39,7 +39,7 @@ input {
     padding: 5px;
     font-size: 18px;
     font-weight: 600;
-    background-color: yellow;
+    background-color: peru;
     padding: 12px 25px;
     color: #171721;
     margin: 0 auto;
